@@ -15,7 +15,7 @@ The dataset can be accessed through the CxC hackathon platform.
 Before we can start the classification process, we need to preprocess and clean the text data. This includes tasks such as tokenization, stop word removal, and stemming. We can use the nltk library to perform these tasks.
 
 ## Visualization
-To gain a better understanding of the data, we can use visualization techniques such as word clouds, bar charts, and scatter plots. We can use the matplotlib and seaborn libraries to create these visualizations.
+To gain a better understanding of the data, we can use visualization techniques such as word clouds and bar charts.
 
 ## Classification
 Once we have preprocessed and visualized the data, we can start the classification process. We can use various machine learning algorithms provided by scikit-learn, such as Naive Bayes, Logistic Regression, and Random Forests, to classify the medical text data into categories.
