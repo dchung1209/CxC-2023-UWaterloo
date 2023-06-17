@@ -17,6 +17,9 @@ Before we can start the classification process, we need to preprocess and clean 
 ## Visualization
 To gain a better understanding of the data, we can use visualization techniques such as word clouds and bar charts.
 
+![Vis/1.png](https://github.com/dchung1209/CxC-2023-UWaterloo/blob/main/Vis/1.png?raw=true)
+![Vis/2.png](https://github.com/dchung1209/CxC-2023-UWaterloo/blob/main/Vis/2.png?raw=true)
+
 ## Classification
 Once we have preprocessed and visualized the data, we can start the classification process. We can use various machine learning algorithms provided by scikit-learn, such as Naive Bayes, Logistic Regression, and Random Forests, to classify the medical text data into categories.
 
